@@ -22,6 +22,8 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.bumptech.glide.Glide;
+import com.example.coolweather.gson.Weather;
+import com.example.coolweather.util.Utility;
 import com.example.weather.gson.Forecast;
 import com.example.weather.gson.Weather;
 import com.example.weather.service.AutoUpdateService;
